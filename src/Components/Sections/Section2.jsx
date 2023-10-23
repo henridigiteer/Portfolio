@@ -12,8 +12,6 @@ import Bootstrap from '../Images/Bootstrap.svg'
 import Sass from '../Images/Sass.svg'
 import Java from '../Images/Java.svg'
 
-
-
 const Section2 = () => {
     return (
         <section className='secondary-bg'>
@@ -69,21 +67,6 @@ const Section2 = () => {
                                     </Row>
                                 </div>
                             </Tab>
-                            {/*TEMPORARY TAB
-                            <Tab eventKey="Skillset2" tabClassName='text-light fw-semibold' title="Skillset">
-                                <div className='tab-height text-start align-items-center'>
-                                    <div className='skills'>
-                                        <div className='skills__skilltab'>HTML</div>
-                                        <div className='skills__skilltab'>CSS</div>
-                                        <div className='skills__skilltab'>Ruby on Rails</div>
-                                        <div className='skills__skilltab'>React.js</div>
-                                        <div className='skills__skilltab'>Tailwind CSS</div>
-                                        <div className='skills__skilltab'>Bootstrap</div>
-                                        <div className='skills__skilltab'>Sass</div>
-                                        <div className='skills__skilltab'>Java</div>
-                                    </div>
-                                </div>
-                            </Tab>*/}
                         </Tabs>
                     </Col>
                 </Row>

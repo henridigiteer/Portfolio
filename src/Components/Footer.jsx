@@ -1,9 +1,9 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import facebook from '../Images/facebook.svg'
-import instagram from '../Images/instagram.svg'
-import twitterx from '../Images/twitterx.svg'
-import linkedin from '../Images/linkedin.svg'
+import facebook from './Images/Facebook.svg'
+import instagram from './Images/Instagram.svg'
+import twitterx from './Images/Twitterx.svg'
+import linkedin from './Images/Linkedin.svg'
 import { Link } from 'react-router-dom';
 
 const SocialMediaIcons = () => {
