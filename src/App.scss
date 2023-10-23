@@ -17,4 +17,6 @@ $tertiary: #D2D7DF;
 @import './CustomSass/Tab.scss';
 @import './CustomSass/Section.scss';
 @import './CustomSass/Footer.scss';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/utilities';
 @import '~bootstrap/scss/bootstrap';
