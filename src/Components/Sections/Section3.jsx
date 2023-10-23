@@ -18,7 +18,7 @@ const CardComponent = {
 const Section3 = () => {
     return (
         <section className='secondary-bg'>
-            <Container id="services" className='p-20'>
+            <Container id="services" className='px-20 py-20'>
                 <h2 className='display-5 text-white text-start fw-semibold mb-12 ps-6 border-start border-2'>Services</h2>
                 <Row className='justify-content-center align-items-center column-gap-12'>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">

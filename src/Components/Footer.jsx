@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 const SocialMediaIcons = () => {
     return (
         <section className='primary-bg'>
-            <Container className='p-6'>
+            <Container className='py-6 px-6'>
                 <p className='text-white text-center mb-6'>Copyright © 2023 All rights reserved</p>
                 <Row className='justify-content-center text-center'>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">

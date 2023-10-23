@@ -15,7 +15,7 @@ import Java from '../Images/Java.svg'
 const Section2 = () => {
     return (
         <section className='secondary-bg'>
-            <Container id="about" className='p-20'>
+            <Container id="about" className='px-20 py-20'>
                 <Row className='text-center align-items-center column-gap-12'>
                     {/*COLUMN 1*/}
                     <Col md={12} lg={5}>

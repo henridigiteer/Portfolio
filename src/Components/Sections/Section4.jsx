@@ -5,7 +5,7 @@ import Form from 'react-bootstrap/Form';
 const Section4 = () => {
     return (
         <section className='primary-bg'>
-            <Container id="contact" className='p-20'>
+            <Container id="contact" className='px-20 py-20'>
                 <Row className='column-gap-12'>
                     <h2 className='display-5 text-white text-center fw-semibold mb-12'>Get in Touch</h2>
                     <Col lg="6" className='mb-md-12 mb-sm-12'>
