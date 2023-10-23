@@ -12,11 +12,12 @@ $tertiary: #D2D7DF;
     font-family: 'Montserrat', sans-serif;
 }
 
+
+
 @import './CustomSass/Header.scss';
 @import './CustomSass/Card.scss';
 @import './CustomSass/Tab.scss';
 @import './CustomSass/Section.scss';
 @import './CustomSass/Footer.scss';
-@import '~bootstrap/scss/variables';
-@import '~bootstrap/scss/utilities';
 @import '~bootstrap/scss/bootstrap';
+
