@@ -1,8 +1,8 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
-import WebDev from 'C:/Users/Henri/portfolio_marcial/src/Images/WebDev.svg'
-import WiP from 'C:/Users/Henri/portfolio_marcial/src/Images/WiP.svg'
+import WebDev from '../Images/WebDev.svg'
+import WiP from '../Images/WiP.svg'
 
 
 const CardComponent = {

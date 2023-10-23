@@ -1,7 +1,7 @@
 import React from 'react'
 import { Col, Container, Row, Button } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
-import Sample from 'C:/Users/Henri/portfolio_marcial/src/Sample.pdf'
+import Sample from '../PDF/Sample.pdf'
 
 const Hero = () => {
     return (

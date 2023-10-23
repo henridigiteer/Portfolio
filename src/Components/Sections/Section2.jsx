@@ -2,15 +2,15 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';  
-import Henri from 'C:/Users/Henri/portfolio_marcial/src/Images/Henri.webp'
-import Html from 'C:/Users/Henri/portfolio_marcial/src/Images/Html.svg'
-import Css from 'C:/Users/Henri/portfolio_marcial/src/Images/Css.svg'
-import Rails from 'C:/Users/Henri/portfolio_marcial/src/Images/Rails.svg'
-import Reactjs from 'C:/Users/Henri/portfolio_marcial/src/Images/Reactjs.svg'
-import Tailwind from 'C:/Users/Henri/portfolio_marcial/src/Images/Tailwind.svg'
-import Bootstrap from 'C:/Users/Henri/portfolio_marcial/src/Images/Bootstrap.svg'
-import Sass from 'C:/Users/Henri/portfolio_marcial/src/Images/Sass.svg'
-import Java from 'C:/Users/Henri/portfolio_marcial/src/Images/Java.svg'
+import Henri from '../Images/Henri.webp'
+import Html from '../Images/Html.svg'
+import Css from '../Images/Css.svg'
+import Rails from '../Images/Rails.svg'
+import Reactjs from '../Images/Reactjs.svg'
+import Tailwind from '../Images/Tailwind.svg'
+import Bootstrap from '../Images/Bootstrap.svg'
+import Sass from '../Images/Sass.svg'
+import Java from '../Images/Java.svg'
 
 
 
