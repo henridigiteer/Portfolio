@@ -1,0 +1,9 @@
+.hover-transform {
+    transition: transform 0.2s;
+}
+
+.hover-transform:hover {
+    transform: scale(1.05);
+}
+
+@import '~bootstrap/scss/bootstrap';

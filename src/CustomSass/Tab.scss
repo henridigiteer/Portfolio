@@ -1,0 +1,33 @@
+.tab-height{
+    min-height: 300px;
+    &__skill{
+        height: 300px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
+
+/*.skills{
+    display: flex;
+    flex-wrap: wrap;
+    &__skilltab{
+        padding: ($spacer * 3) ($spacer * 5);
+        margin-bottom: ($spacer * 4);
+        margin-right: ($spacer * 4);
+        font-size: ($spacer * 4);
+        background: $tertiary;
+        border-radius: ($spacer * 2);
+    }
+}*/
+
+.skill-item {
+    display: flex;
+    align-items: center;
+    transition: transform 0.2s;
+}
+
+.skill-item:hover {
+    transform: translateX(20px);
+}
+
+@import '~bootstrap/scss/bootstrap';

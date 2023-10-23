@@ -1,0 +1,9 @@
+.header-padding{
+    padding: ($spacer * 6) !important;
+}
+
+.header-bg{
+    background-color: $primary;
+}
+
+@import '~bootstrap/scss/bootstrap';    
