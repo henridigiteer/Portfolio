@@ -1,23 +1,14 @@
-$spacer: 4px;
-
-$primary: #353535;
-$secondary: #414141;
-$tertiary: #D2D7DF;
-
-//#BDBBB0;
-//#8A897C
-//#F5F5F5
+@import './Custom.scss';
 
 .body {
     font-family: 'Montserrat', sans-serif;
 }
 
 
+@import './Sass/CustomSass/Header.scss';
+@import './Sass/CustomSass/Card.scss';
+@import './Sass/CustomSass/Tab.scss';
+@import './Sass/CustomSass/Section.scss';
+@import './Sass/CustomSass/Footer.scss';
 
-@import './CustomSass/Header.scss';
-@import './CustomSass/Card.scss';
-@import './CustomSass/Tab.scss';
-@import './CustomSass/Section.scss';
-@import './CustomSass/Footer.scss';
-@import '~bootstrap/scss/bootstrap';
 

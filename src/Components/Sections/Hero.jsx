@@ -9,7 +9,7 @@ const Hero = () => {
             <Container id="home" className='px-20 py-30'>
                 <Row className='align-items-center text-center'>
                     <Col lg="12">
-                        <h2 className='display-4 text-white pt-30'>Hello, I'm</h2>
+                        <h2 className='display-4 text-white pt-30 mb-3'>Hello, I'm</h2>
                         <h1 className='display-3 text-white fw-bold mb-6'>Henri Marcial</h1>
                         <h5 className='text-white mb-20'>Aspiring Front-end Developer</h5>
                         <Link to={Sample}

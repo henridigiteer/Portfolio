@@ -1,0 +1,16 @@
+$primary:       #353535;
+$secondary:     #414141;
+$tertiary:      #D2D7DF;
+
+$spacer: 4px;
+$spacers: (
+    0: 0,
+    3: $spacer * 3,
+    4: $spacer * 4,
+    6: $spacer * 6,
+    12: $spacer * 12,
+    20: $spacer * 20,
+    30: $spacer * 30,
+);
+
+@import '~bootstrap/scss/bootstrap';
