@@ -13,24 +13,32 @@ const SocialMediaIcons = () => {
                 <p className='text-white text-center mb-6'>Copyright © 2023 All rights reserved</p>
                 <Row className='justify-content-center text-center'>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">
-                        <div className="icon-container">
-                            <Link target="_blank" to='https://www.facebook.com/'><img src={facebook} alt="facebook" /></Link>
-                        </div>
+                        <Link target="_blank" to='https://www.facebook.com/'>
+                            <div className="icon-container">
+                                <img src={facebook} alt="facebook" />
+                            </div>
+                        </Link>
                     </Col>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">
-                        <div className="icon-container">
-                            <Link target="_blank" to='https://www.instagram.com/'><img src={instagram} alt="instagram" /></Link>
-                        </div>
+                        <Link target="_blank" to='https://www.instagram.com/'>
+                            <div className="icon-container">
+                                <img src={instagram} alt="instagram" />
+                            </div>
+                        </Link>
                     </Col>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">
-                        <div className="icon-container">
-                            <Link target="_blank" to='https://twitter.com/?lang=en'><img src={twitterx} alt="twitterx" /></Link>
-                        </div>
+                        <Link target="_blank" to='https://twitter.com/?lang=en'>
+                            <div className="icon-container">
+                                <img src={twitterx} alt="twitterx" />
+                            </div>
+                        </Link>
                     </Col>
                     <Col xs="auto" sm="auto" md="auto" lg="auto">
-                        <div className="icon-container">
-                            <Link target="_blank" to='https://www.linkedin.com/in/henri-marcial-555000270/'><img src={linkedin} alt="linkedin" /></Link>
-                        </div>
+                        <Link target="_blank" to='https://www.linkedin.com/in/henri-marcial-555000270/'>
+                            <div className="icon-container">
+                                <img src={linkedin} alt="linkedin" />
+                            </div>
+                        </Link>
                     </Col>
                 </Row>
             </Container>
